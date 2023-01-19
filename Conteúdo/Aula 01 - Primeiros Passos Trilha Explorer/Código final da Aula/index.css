@@ -1,0 +1,12 @@
+* { /* Asterístico -> Significa todos. Todo conteúdo da página */
+   margin: 0; /*Por padrão há uma margem de 8px no body da página. Margens retiradas*/
+}
+
+body { /*Seletor de tag*/
+  background-color: #09090A; /*Valor Hexadecimal*/
+
+  display: grid; /*Display -> Visualização*/
+  place-items: center; /*Só é possível o uso desta propriedade com grid*/
+
+  height: 100vh; /*Viewport é toda parte visível. Neste caso está pegando 100% da altura*/
+}
