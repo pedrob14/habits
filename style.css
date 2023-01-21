@@ -17,6 +17,10 @@ header {
   justify-content: space-between; /*Espaço entre os elementos. Cada elemento ficou em uma ponta*/
 
   padding: 48px;
+
+  position: fixed; /*Fixando e sobreponto*/
+  background-color: #09090a; /*Para retirar todo o outro conteúdo*/
+  width: 100%; /*ocupar 100% de sua largura*/
 }
 
 button {
@@ -36,9 +40,10 @@ button {
   line-height: 125%;
 }
 
-form {
+#form-habits {
   display: flex;
-  padding: 0 48px;
+  padding: 182px 48px 48px; /*182px do conteúdo do header*/
+  width: fit-content; /*fit-content -> Encaixar todo o conteúdo. Aqui no caso na largura*/
 }
 
 .habits {
@@ -102,4 +107,12 @@ input {
 input:checked {
   background: #8b5cf6;
   border: 2px solid #a78bfa;
+}
+
+/*@media: Responsividade no css.
+Ao ser menor que 570px, a div dentro do botão irá sumir, ou seja, o "Registrar o meu dia". Ficando somente o sinal de +*/
+@media (max-width: 570px) { 
+  button div {
+    display: none;
+  }
 }
