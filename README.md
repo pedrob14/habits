@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://pedrob14.github.io/DevLinks/)
+- [Acesse o projeto finalizado, online](https://pedrob14.github.io/habits/)
 
 ## 🔖 Layout
 
