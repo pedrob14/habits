@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a tornar suas atividade um hábito diário.
+O Habits é um app para ajudar a tornar suas atividades um hábito diário.
 
 - [Acesse o projeto finalizado, online](https://pedrob14.github.io/habits/)
 
