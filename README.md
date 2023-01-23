@@ -1,7 +1,7 @@
 <h1 align="center"> Habits </h1>
 
 <p align="center">
-NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.<br/>
+Este projeto é uma aplicação que tem como objetivo ajudar a gerenciar minhas atividades diárias e torná-las um hábito.<br/>
 </p>
 
 <p align="center">
