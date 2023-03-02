@@ -1,10 +1,6 @@
 <h1 align="center"> Habits </h1>
 
 <p align="center">
-Este projeto é uma aplicação que tem como objetivo ajudar a gerenciar minhas atividades diárias e torná-las um hábito.<br/>
-</p>
-
-<p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -32,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a tornar suas atividades um hábito diário.
+Este projeto é uma aplicação que tem como objetivo ajudar a gerenciar minhas atividades diárias e torná-las um hábito.<br/>
 
 - [Acesse o projeto finalizado, online](https://pedrob14.github.io/habits/)
 
